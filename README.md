@@ -4,8 +4,7 @@ This repo includes some files related to Michael Yeung's undergraduate study (MA
 
 # Folders
 ## RMBI 4310 Advanced Data Mining for Risk Management and Business Intelligence
-Complete Report and codes for Project 1 - Sentiment Analysis
-Note: As I am enrolling the course this term (2021 Spring), codes on other projects will be updated later.
+Complete Report and codes for Project 1 - Sentiment Analysis. (Note: As I am enrolling the course this term (2021 Spring), codes on other projects will be updated later.)
 
 ## COMP 4331 Data Mining
 Supervised and Unsupervised Learning using Bayes, ID3, C4.5, K-means Clustering, DBScan, etc.

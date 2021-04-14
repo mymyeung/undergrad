@@ -15,4 +15,4 @@ Data Visualization Group Project (mainly in JavaScript and Python). It includes 
 
 ## My Website
 https://mymyeung.student.ust.hk/
-Non-course-related work done by myself. My personal webpage online. It includes my personal info, courses, designs, and some JavaScript games I wrote. It can be found on: 
+Non-course-related work done by myself. My personal webpage online. It includes my personal info, courses, designs, and some JavaScript games I wrote.

@@ -1,6 +1,6 @@
 # undergrad
 
-This repo includes some files related to Michael Yeung's undergraduate study (MAEC,BDT,ACTM). All codes, unless otherwise stated or referenced, are written by Michael Yeung (or are codes for Michael Yeung's group in projects).
+This repo includes some files related to Michael Yeung's undergraduate study. All codes, unless otherwise stated or referenced, are written by Michael Yeung (or are codes for Michael Yeung's group in projects).
 
 # Folders
 ## RMBI 4310 Advanced Data Mining for Risk Management and Business Intelligence

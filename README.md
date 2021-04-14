@@ -8,7 +8,7 @@ Includes the completed Report and codes for Project 1 - Sentiment Analysis (TFID
 
 ## COMP 4331 Data Mining
 Supervised and Unsupervised Learning using Bayes, ID3, C4.5, K-means Clustering, DBScan, etc.
-Written in Python.
+Written in Python (and the course instructor requires us to avoid using libraries in this course).
 
 ## COMP 4462 Data Visualization
 Data Visualization Group Project (mainly in JavaScript and Python). It includes 4 dynamic designs (html, CSS, JavaScript) and 3 static designs (Python: using matplotlib and numpy).

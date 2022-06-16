@@ -3,6 +3,11 @@
 This repo includes some files related to Michael Yeung's undergraduate study. All codes, unless otherwise stated or referenced, are written by Michael Yeung (or are codes for Michael Yeung's group in projects).
 
 # Folders
+## Undergrad Research - Investment Analysis with Machine Learning
+Includes the report and codes for the research project. All codes are written from scratch unless otherwise specified. The two models replicated include:
+- SESTM by Ke et al. (2020)
+- FarmPredict by Fan et al. (2021)
+
 ## RMBI 4310 Advanced Data Mining for Risk Management and Business Intelligence
 Includes the completed Report and codes for Project 1 - Sentiment Analysis (TFIDF-BiLSTM-Numerical-MLP Model). (Note: As I am enrolling the course this term (2021 Spring), codes on other projects will be updated later.)
 

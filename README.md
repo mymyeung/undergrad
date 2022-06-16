@@ -4,7 +4,7 @@ This repo includes some files related to Michael Yeung's undergraduate study.
 All codes, unless otherwise stated or referenced, are written by me from scratch (or are codes for my group in course projects).
 
 # Folders
-## Undergrad Research - Investment Analysis with Machine Learning
+## UROP Undergrad Research - Investment Analysis with Machine Learning
 Includes the report and codes for the research project.
 The project aims to develop models to predict Chinese stock return using analyst reports (Chinese Text).
 All codes are written from scratch unless otherwise specified. The two models replicated and analyzed include:

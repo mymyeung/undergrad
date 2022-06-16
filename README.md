@@ -4,7 +4,7 @@ This repo includes some files related to Michael Yeung's undergraduate study. Al
 
 # Folders
 ## Undergrad Research - Investment Analysis with Machine Learning
-Includes the report and codes for the research project. All codes are written from scratch unless otherwise specified. The two models replicated include:
+Includes the report and codes for the research project. All codes are written from scratch unless otherwise specified. The two models replicated and analyzed include:
 - SESTM by Ke et al. (2020)
 - FarmPredict by Fan et al. (2021)
 

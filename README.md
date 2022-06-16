@@ -1,7 +1,8 @@
 # undergrad
 
-This repo includes some files related to Michael Yeung's undergraduate study.
-All codes, unless otherwise stated or referenced, are written by me from scratch (or are codes for my group in course projects).
+- This repo includes some files related to Michael Yeung's undergraduate study.
+- Some codes in other projects are not included in this repo and are available upon request.
+- All codes, unless otherwise stated or referenced, are written by me from scratch (or are codes for my group in course projects).
 
 # Folders
 ## UROP Undergrad Research - Investment Analysis with Machine Learning
